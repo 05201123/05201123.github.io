@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.myapplication",
+    "package_name": "com.fun.qubox",
     "sha256_cert_fingerprints":
-    ["68:BE:2E:82:18:9B:2C:5D:19:E6:11:7F:64:AD:60:F7:57:05:7F:7A:29:20:02:CD:21:BF:E8:85:30:5E:15:89"]
+    ["14:48:B7:3B:E6:86:2A:90:BF:24:E1:A9:15:82:B1:53:0C:E0:CC:4E:E0:DB:03:6C:47:D6:3D:24:27:DB:FB:97"]
   }
 }]
